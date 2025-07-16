@@ -30,7 +30,8 @@
         }
       ],
       "mealTypes": ["dessert"],
-      "category": "dessert"
+      "category": "dessert",
+      "healthy": false
     },
     {
       "id": 42,
@@ -52,7 +53,8 @@
         }
       ],
       "mealTypes": ["breakfast"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 48,
@@ -79,7 +81,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 1,
@@ -126,7 +129,8 @@
         }
       ],
       "mealTypes": [],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 40,
@@ -163,7 +167,8 @@
         }
       ],
       "mealTypes": ["breakfast", "dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 14,
@@ -200,7 +205,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 20,
@@ -232,7 +238,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "salad"
+      "category": "salad",
+      "healthy": false
     },
     {
       "id": 4,
@@ -279,7 +286,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 44,
@@ -311,7 +319,8 @@
         }
       ],
       "mealTypes": ["breakfast"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 36,
@@ -348,7 +357,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": true
     },
     {
       "id": 38,
@@ -380,7 +390,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": true
     },
     {
       "id": 3,
@@ -417,7 +428,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "food"
+      "category": "food",
+      "healthy": true
     },
     {
       "id": 34,
@@ -449,7 +461,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 27,
@@ -481,7 +494,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "salad"
+      "category": "salad",
+      "healthy": true
     },
     {
       "id": 49,
@@ -513,7 +527,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "salad"
+      "category": "salad",
+      "healthy": true
     },
     {
       "id": 10,
@@ -545,7 +560,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": true
     },
     {
       "id": 21,
@@ -572,7 +588,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 17,
@@ -599,7 +616,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 41,
@@ -636,7 +654,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": true
     },
     {
       "id": 31,
@@ -668,7 +687,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 47,
@@ -700,7 +720,8 @@
         }
       ],
       "mealTypes": ["beverage", "dessert", "snack"],
-      "category": "dessert"
+      "category": "dessert",
+      "healthy": false
     },
     {
       "id": 7,
@@ -742,7 +763,8 @@
         }
       ],
       "mealTypes": ["beverage"],
-      "category": "drink"
+      "category": "drink",
+      "healthy": false
     },
     {
       "id": 25,
@@ -769,7 +791,8 @@
         }
       ],
       "mealTypes": [],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 28,
@@ -801,7 +824,8 @@
         }
       ],
       "mealTypes": ["dessert"],
-      "category": "dessert"
+      "category": "dessert",
+      "healthy": false
     },
     {
       "id": 26,
@@ -833,7 +857,8 @@
         }
       ],
       "mealTypes": ["breakfast"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 50,
@@ -865,7 +890,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "food"
+      "category": "food",
+      "healthy": true
     },
     {
       "id": 39,
@@ -897,7 +923,8 @@
         }
       ],
       "mealTypes": [],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 15,
@@ -929,7 +956,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 2,
@@ -956,7 +984,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "side"
+      "category": "side",
+      "healthy": false
     },
     {
       "id": 6,
@@ -998,7 +1027,8 @@
         }
       ],
       "mealTypes": [],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 45,
@@ -1030,7 +1060,8 @@
         }
       ],
       "mealTypes": ["beverage"],
-      "category": "drink"
+      "category": "drink",
+      "healthy": true
     },
     {
       "id": 33,
@@ -1057,7 +1088,8 @@
         }
       ],
       "mealTypes": [],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 24,
@@ -1094,7 +1126,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 30,
@@ -1121,7 +1154,8 @@
         }
       ],
       "mealTypes": ["breakfast"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 8,
@@ -1153,7 +1187,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 35,
@@ -1175,7 +1210,8 @@
         }
       ],
       "mealTypes": ["dessert"],
-      "category": "dessert"
+      "category": "dessert",
+      "healthy": false
     },
     {
       "id": 32,
@@ -1207,7 +1243,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "side"
+      "category": "side",
+      "healthy": false
     },
     {
       "id": 13,
@@ -1239,7 +1276,8 @@
         }
       ],
       "mealTypes": ["beverage", "dessert"],
-      "category": "drink"
+      "category": "drink",
+      "healthy": false
     },
     {
       "id": 19,
@@ -1271,7 +1309,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 16,
@@ -1303,7 +1342,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "side"
+      "category": "side",
+      "healthy": false
     },
     {
       "id": 12,
@@ -1335,7 +1375,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "side"
+      "category": "side",
+      "healthy": false
     },
     {
       "id": 29,
@@ -1367,7 +1408,8 @@
         }
       ],
       "mealTypes": ["breakfast"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 46,
@@ -1399,7 +1441,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 5,
@@ -1431,7 +1474,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 37,
@@ -1463,7 +1507,8 @@
         }
       ],
       "mealTypes": [],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 18,
@@ -1490,7 +1535,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": true
     },
     {
       "id": 22,
@@ -1522,7 +1568,8 @@
         }
       ],
       "mealTypes": ["snack"],
-      "category": "side"
+      "category": "side",
+      "healthy": false
     },
     {
       "id": 43,
@@ -1554,7 +1601,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 9,
@@ -1596,7 +1644,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": true
     },
     {
       "id": 11,
@@ -1633,7 +1682,8 @@
         }
       ],
       "mealTypes": ["dinner", "lunch"],
-      "category": "food"
+      "category": "food",
+      "healthy": false
     },
     {
       "id": 51,
@@ -1644,7 +1694,8 @@
       "calories": 0,
       "ingredients": [],
       "mealTypes": ["dinner", "lunch", "breakfast", "beverage"],
-      "category": "drink"
+      "category": "drink",
+      "healthy": true
     },
     {
       "id": 52,
@@ -1655,7 +1706,8 @@
       "calories": 0,
       "ingredients": [],
       "mealTypes": ["dinner", "lunch", "breakfast", "beverage"],
-      "category": "drink"
+      "category": "drink",
+      "healthy": false
     }
   ]
 }
