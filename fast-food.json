@@ -1634,6 +1634,28 @@
       ],
       "mealTypes": ["dinner", "lunch"],
       "category": "food"
+    },
+    {
+      "id": 51,
+      "title": "Water",
+      "description": "",
+      "thumbnailUrl": "",
+      "emoji": "\ud83c\udf2e",
+      "calories": 0,
+      "ingredients": [],
+      "mealTypes": ["dinner", "lunch", "breakfast", "beverage"],
+      "category": "drink"
+    },
+    {
+      "id": 52,
+      "title": "Coffe",
+      "description": "",
+      "thumbnailUrl": "",
+      "emoji": "\ud83c\udf2e",
+      "calories": 0,
+      "ingredients": [],
+      "mealTypes": ["dinner", "lunch", "breakfast", "beverage"],
+      "category": "drink"
     }
   ]
 }
